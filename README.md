@@ -16,4 +16,4 @@ O modelo base utilizado é o neuralmind/bert-base-portuguese-cased, ajustado par
 
 ## Dataset
 
- `oncas_comentarios.csv` – 4569 comentários de 3 vídeos analisados
+ `oncas_comentarios.csv` – 4569 comentários de 9 vídeos analisados
